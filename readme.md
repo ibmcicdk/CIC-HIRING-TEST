@@ -44,4 +44,3 @@ https://github.com/ibmcicdk/CIC-HIRING-TEST/tree/master/FeatureToggle
 ### Chatbot
 Create a chatbot via your own logic or popular frameworks
 https://github.com/ibmcicdk/CIC-HIRINGTEST-TEST/tree/master/Chatbot
-https://github.com/ibmcicdk/CIC-HIRING-TEST/tree/master/FeatureToggle

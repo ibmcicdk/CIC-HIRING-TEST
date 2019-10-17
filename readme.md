@@ -37,10 +37,10 @@ Select a project, read the descriptionm  create a git and get started - we can't
 
 ### Virtual White Board
 Create a virtual white board to put up messages, images and all things between
-https://github.ibm.com/ibmdkcic/IBM-CIC-HIRINGTEST/tree/master/VirtualWhiteBoard
+https://github.com/ibmcicdk/CIC-HIRINGTEST-TEST/tree/master/VirtualWhiteBoard
 ### Feature toggle
 Create a feature toggling piece of software and hook it up to a login or your own system.
-https://github.ibm.com/ibmdkcic/IBM-CIC-HIRINGTEST/tree/master/FeatureToggle
+https://github.com/ibmcicdk/CIC-HIRINGTEST-TEST/tree/master/FeatureToggle
 ### Chatbot
 Create a chatbot via your own logic or popular frameworks
-https://github.ibm.com/ibmdkcic/IBM-CIC-HIRINGTEST/tree/master/Chatbot
+https://github.com/ibmcicdk/CIC-HIRINGTEST-TEST/tree/master/Chatbot

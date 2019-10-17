@@ -43,4 +43,4 @@ Create a feature toggling piece of software and hook it up to a login or your ow
 https://github.com/ibmcicdk/CIC-HIRING-TEST/tree/master/FeatureToggle
 ### Chatbot
 Create a chatbot via your own logic or popular frameworks
-https://github.com/ibmcicdk/CIC-HIRINGTEST-TEST/tree/master/Chatbot
+https://github.com/ibmcicdk/CIC-HIRING-TEST/tree/master/Chatbot

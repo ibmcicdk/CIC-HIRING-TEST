@@ -33,7 +33,7 @@ Coding and developing software is so much more than just following best practise
 ## Projects
 You can read through each project and then select the one that suits you the best, do as many tasks as possible or as few that are perfect as possible - it's up to you. Each project can be made as a frontend, backend or fullstack developer. It is up to you to show us what you can make on these projects.
 Each project has a set of tasks and you are *not* expected to be able to get through all of them.
-Select a project, read the descriptionm  create a git and get started - we can't wait to work with you!
+Select a project, read the description, create a git and get started - we can't wait to work with you!
 
 ### Virtual White Board
 Create a virtual white board to put up messages, images and all things between

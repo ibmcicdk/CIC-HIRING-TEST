@@ -1,4 +1,4 @@
-flask
-nltk
-numpy
-tensorflow
+flask==1.1.1
+nltk==3.5
+numpy==1.19.5
+tensorflow==2.5.0

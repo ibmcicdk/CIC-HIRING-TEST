@@ -1,46 +1,41 @@
+# Chatbot
 
-# IBM-CIC hiring test
 
-This git repo contains several hiring tests for potential candidates to show their skills.
+## Installation
 
-## General requirements
-* A participant has 24 hours to get as far as possible with a project - you don't have to spend 24 hours.
-* A project should be created in git, the platform is not important as long as reviewers can be invited to it
-* The participants role should be clearly visible in this git, the readme would be a good place 
-* Documentation is not a requirement, but the project should be easy to compile and run 
-* It is a plus if an instance of the project should be running in some kind of online environment
-* The project should be able to be build from instructions given by the participant
-* A justification of technology should be included, why did you choose that language or framework, what strengths does it have, why is it a good fit for the project. If you do not know more than that language that is okay, focus on the frameworks you chose instead.
+## Simple Example
 
-## Frontend, backend or full-stack
-When doing an assignment you choose what to focus on. If your strongest skill is frontend then choose a project that fits your abilities and focus on creating the frontend. If you skills are purely frontend a backend is not required, but mock data should still be in the interface. Same goes for backend but with the API
-### Frontend
-Focus on creativity, inginuity and speed. How awesome can you make a frontend in the given time and how much of it can you make, make sure there is data and every functionality you include is functional.
+## Development
 
-### Backend
-Focus on a well crafted API, easy to read code and good api documentation. 
+## IBM CIC Assignment Info
 
-### Full-stack
-Focus on... everything! show us what you got, you are not expected to get as far as if you were only focusing on the frontend or backend, but here you have a chance to show you know some architecture and system design.
+### Roles
+- Frontend
+- Backend
+- Fullstack
+## Description
+------
+One day, you and your team get contacted by a customer service department in a hardware store (Bewhaos A/S). They want a chatbot for managing all customer inquries through their website.
+The customer service bot should either be able to be imported into the website, or work as a seperate site which customers can access/get redirected to so forth they have any questions.
+You decide how the bot should answer questions and where it should get it's data from. Frameworks are acceptable and encouraged.
+## Tasks
+all tasks are described as “user stories” - simply put a user wants to be able to do this, you come up with how they are going to do it. **You’re not meant to do all stories but as many as you can and in no particular order.**
+### Directions
+It is fine to hard code the questions accepted by the chatbot and relevant
+### Conversation
+- Bewhaos wants the bot to be able to greet the customer upon starting the application and respond with simple politeness gestures as well as respond to goodbye.
+- A customer would like an easy to way to find out what the chatbot can do and how it can help him
+- A customer enquires about available hammer products . Asking the chatbot, the bot returns a list of links to an assortment of hammers of different brands.
+- A customer enquires about available screwdriver products. Asking the chatbot, the bot replies that no screwdrivers are in stock.
+- Bewhaos would like to handle media with their chatbot. They want to be able to send images and videos through the chatbot.
+- [Feel free to come up with other interesting or elaborate concversation scenarios]
+### Configuration dashboard
+- A customer service rep wants to inform the bot about new product lines, and enters a configuration dashboard, where he can publish a link for the new product line making it available for the bot to crawl.
+- A customer asks a question for which the chatbot does not know the answer. The bot reports this to the configuration dashboard and creates a notification for the customer service team.
+- A customer service rep logs in to the configuration dashboard to see new notifications from the chatbot. The customer service rep. finds a question about garden furniture which the chatbot has made a report on, and fixes the error by grouping the input request with other garden furniture questions.
+### Nearest store lookup
+- A customer wants to visit the store, but is unsure about the weather - he wants to ask the bot about the weather (BACKEND)
+- A customer wants to know where the nearest store is
+- A customer wants displayed by the bot where the nearest store is (FRONTEND) 
 
-## Deliver on Git
-All projects are expetected to be delivered on some sort of git platform, the repository should be open so any and all reviewers can download your source code and see your code. You should send the gir repository link to the hiring manager or a preassigned reviewer
 
-## Have fun with this, be creative and most of all show us that you are a modern developer.
-
-Coding and developing software is so much more than just following best practise. Show us what you got, show us your quirky hacks and ways to tame beta frameworks that others have not thought of, show us a combination of technologies we might not have seen before. This test is made for you, not for us. We want you to show us how you work - best practise will come with time, we need to see your passion and the way you interact with a project 
-
-## Projects
-You can read through each project and then select the one that suits you the best, do as many tasks as possible or as few that are perfect as possible - it's up to you. Each project can be made as a frontend, backend or fullstack developer. It is up to you to show us what you can make on these projects.
-Each project has a set of tasks and you are *not* expected to be able to get through all of them.
-Select a project, read the descriptionm  create a git and get started - we can't wait to work with you!
-
-### Virtual White Board
-Create a virtual white board to put up messages, images and all things between
-https://github.com/ibmcicdk/CIC-HIRING-TEST/tree/master/VirtualWhiteBoard
-### Feature toggle
-Create a feature toggling piece of software and hook it up to a login or your own system.
-https://github.com/ibmcicdk/CIC-HIRING-TEST/tree/master/FeatureToggle
-### Chatbot
-Create a chatbot via your own logic or popular frameworks
-https://github.com/ibmcicdk/CIC-HIRING-TEST/tree/master/Chatbot

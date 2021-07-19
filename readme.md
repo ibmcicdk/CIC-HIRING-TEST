@@ -1,27 +1,23 @@
 # Chatbot
-
+The project is hosted with pythonanywhere.com @ http://aronstef.pythonanywhere.com/.
 
 ## Installation
+pip install -r requirements.txt
 
-## Simple Example
-
-## Development
+## Run Locally
+python wsgi.py
 
 ## IBM CIC Assignment Info
-
-### Roles
-- Frontend
-- Backend
-- Fullstack
-## Description
-------
 One day, you and your team get contacted by a customer service department in a hardware store (Bewhaos A/S). They want a chatbot for managing all customer inquries through their website.
 The customer service bot should either be able to be imported into the website, or work as a seperate site which customers can access/get redirected to so forth they have any questions.
 You decide how the bot should answer questions and where it should get it's data from. Frameworks are acceptable and encouraged.
+
+### Roles
+The focus of the task is on the backend however a frontend has been included based on templates and css from: https://github.com/Arraxx/new-chatbot/
+
 ## Tasks
-all tasks are described as “user stories” - simply put a user wants to be able to do this, you come up with how they are going to do it. **You’re not meant to do all stories but as many as you can and in no particular order.**
-### Directions
-It is fine to hard code the questions accepted by the chatbot and relevant
+All tasks are described as “user stories” - simply put a user wants to be able to do this, you come up with how they are going to do it. **You’re not meant to do all stories but as many as you can and in no particular order.**
+
 ### Conversation
 - Bewhaos wants the bot to be able to greet the customer upon starting the application and respond with simple politeness gestures as well as respond to goodbye.
 - A customer would like an easy to way to find out what the chatbot can do and how it can help him

@@ -92,4 +92,4 @@ ENV/
 
 # Spyder project settings
 .spyderproject
-
+.idea

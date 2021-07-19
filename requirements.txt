@@ -1,1 +1,4 @@
 flask
+nltk
+numpy
+tensorflow
